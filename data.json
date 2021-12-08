@@ -1,5 +1,14 @@
 {
-  "log": {
-    "level": "information"
+  "Heading": {
+    "value": "Heading of sample"
+  },
+  "Description": {
+    "value": "<p>This is the description block</p>\n"
+  },
+  "Number": {
+    "value": 3
+  },
+  "Title": {
+    "value": "Title of sample "
   }
 }
