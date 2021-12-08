@@ -1,14 +1,6 @@
 {
-  "Heading": {
-    "value": "Heading of sample"
-  },
-  "Description": {
-    "value": "<p>This is the description block</p>\n"
-  },
-  "Number": {
-    "value": 3
-  },
-  "Title": {
-    "value": "Title of sample "
-  }
+  "Heading": "Heading of sample",
+  "Description": "<p>This is the description block</p>\n",
+  "Number": 3,
+  "Title": "Title of sample "
 }
