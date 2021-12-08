@@ -1,1 +1,5 @@
-{"log":{"level":"information"}}
+{
+  "log": {
+    "level": "information"
+  }
+}
